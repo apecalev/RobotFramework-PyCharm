@@ -1,0 +1,47 @@
+*** Settings ***
+Documentation     PLP Screen locators
+
+*** Variables ***
+${BREADCRUMBS_ALL}
+${SORTBY_PLP}
+${PAGERESULTS}
+${TOTALRESULTS}
+${NEXTPAGE_PLP}
+${PREVIOUSPAGE_PLP}
+${CURRENTPAGE_PLP}
+${DEFAULTSORT}
+@{SORTINGOPTIONS}
+${MOST POPULAR}
+${NAME A-Z}
+${NAME Z-A}
+${LOWTOHIGH}
+${HIGHTOLOW}
+${NEWESTTOOLDEST}
+${TOPRATED}
+${BRANDHEROCAROUSEL}
+${PLPSEARCHEDTEXTCONTAINER}
+${REVIEWSANDRAITING_SECONDITEM_PLP}
+${REVIEWSANDRAITING_THIRDRESULT_PLP}
+${NUMBER_OF_PRODUCTS_ON_PLP}
+${ALLITEMSACTIVE_PLP}
+${ALLITEMS_PLP}
+${FIRSTRESULT}
+${SECONDRESULT}
+${THIRDRESULT}
+${FOURTHRESULT}
+${CategoryFacet}
+${PriceFacet}
+${BrandFacet}
+${RatingFacet}
+${BrandsFacet-}
+${BrandsFacet+}
+${showallbrands}
+${appliedFilters}
+${RatingFacet+}
+${RatingFacet-}
+${ratingsfilterapplied}
+${PriceFacet-}
+${PriceFacet+}
+${50to100}
+${pricefilterapplied}
+${FIRSTRESULTPRICE}

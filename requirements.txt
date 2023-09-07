@@ -1,0 +1,8 @@
+####### requirements.txt #######
+Appium-Python-Client
+robotframework
+robotframework-appiumlibrary
+robotframework-seleniumlibrary
+robotframework-testrail
+robotframework-faker
+requests
